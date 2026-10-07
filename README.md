@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angel1325t&label=Profile%20views&color=0e75b6&style=flat" alt="angel1325t" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angel1325t" alt="angel1325t" /></a> </p>
-
 - 🌱 I’m currently learning **Convex, Redis**
 
 - 📫 How to reach me **angelalexander.dev**
